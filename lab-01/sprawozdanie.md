@@ -1,1 +1,8 @@
 # LAB 1 
+### Kanban a Scrum i układ tablicy
+
+Scrum i Kanban to dwie metody zarządzania projektem. W Scrumie pracuje się w sprintach, czyli krótkich okresach trwających zwykle 1–4 tygodnie. Zakres zadań ustala się na początku sprintu, a zespół ma swoje role, jak Product Owner i Scrum Master, oraz regularne spotkania. W Kanbanie nie ma sprintów ani przypisanych ról. Zadania wykonuje się na bieżąco, a nowe można dodać w dowolnym momencie. Najważniejsze jest to, żeby widzieć na tablicy, na jakim etapie jest każde zadanie, i nie robić za dużo rzeczy naraz.
+
+Na zajęciach mieliśmy zastosować Kanban, więc tablica w Jirze jest zrobiona w tej metodzie. Pasuje też do naszego projektu, bo etapy (czyszczenie danych, EDA, trening modelu, walidacja, wdrożenie, dokumentacja, monitorowanie) idą jeden po drugim i trudno z góry ocenić, ile każdy zajmie. Sprinty byłyby tu mniej wygodne.
+
+Tablica ma cztery kolumny: **To Do**, **In Progress**, **In Review** i **Done**. Kolumna To Do pełni rolę backlogu, czyli listy wszystkich zadań, które czekają na realizację. Z niej zadania przenosi do In Progress osoba, która je faktycznie zaczyna robić (w Kanbanie nie ma jednej osoby, która przydziela pracę, więc każdy bierze zadanie sam). Dzięki temu od razu widać, co jest w trakcie, co czeka na sprawdzenie w In Review i co jest skończone. Kolumna In Review jest przydatna, bo wyniki analiz i modelu trzeba sprawdzić, zanim uzna się je za gotowe. Priorytety ustawiłem(am) według kolejności etapów: im wcześniejszy etap, tym wyższy priorytet, bo kolejne kroki od niego zależą. W kolumnie In Progress jest tylko kilka zadań naraz, żeby najpierw kończyć to, co rozpoczęte.
