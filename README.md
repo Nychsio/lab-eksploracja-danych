@@ -1,1 +1,1 @@
-# lab-eksploracja-danych.
+# 2lab-eksploracja-danych.
