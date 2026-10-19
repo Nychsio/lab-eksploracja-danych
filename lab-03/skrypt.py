@@ -17,4 +17,3 @@ df = pd.read_csv(path)
 # Wypisz liczbę wierszy i nazwy kolumn
 print(f"Liczba wierszy: {len(df)}")
 print(f"Kolumny: {list(df.columns)}")
-print(f"zle dane")
