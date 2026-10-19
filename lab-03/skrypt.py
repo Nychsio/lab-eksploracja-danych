@@ -13,6 +13,7 @@ if not os.path.exists(path):
 # Wczytaj dane do DataFrame
 df = pd.read_csv(path)
 
+#dodatkowa liniaO
 # Wypisz liczbę wierszy i nazwy kolumn
 print(f"Liczba wierszy: {len(df)}")
 print(f"Kolumny: {list(df.columns)}")
